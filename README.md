@@ -25,4 +25,4 @@ Sim time: 50.0 Time: 45.65343 FPS: 1.0952066
 
 ## brevis-simple-swarm
 
-Sim time: 50.0 Time: 26.67284 FPS: 1.874562
+Sim time: 50.0 Time: 12.915947 FPS: 3.8711686
