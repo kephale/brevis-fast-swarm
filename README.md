@@ -1,4 +1,4 @@
-# brevis-simple-swarm
+# brevis-fast-swarm
 A simple swarm in Brevis
 
 # Run with:
